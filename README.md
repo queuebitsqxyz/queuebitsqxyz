@@ -21,7 +21,7 @@ My account is still a work in progress since I'm currently busy with college as 
 
 ### Sites 🌐
 
-- [Art Portfolio](queuebitsqxyz.github.io/myartfolio/)
-- [Bsky](https://bsky.app/profile/ki-yu-bi-t.bsky.social)
+- <a href="https://queuebitsqxyz.github.io/myartfolio/" target="_blank">Artfolio</a>
+- <a href="https://bsky.app/profile/ki-yu-bi-t.bsky.social">Bluesky</a>
 
 ---
