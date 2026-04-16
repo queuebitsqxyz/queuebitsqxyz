@@ -23,6 +23,5 @@ My account is still a work in progress since I'm currently busy with college as 
 
 - <a href="https://queuebitsqxyz.github.io/myartfolio/" target="_blank" rel="noopener noreferrer">Artfolio</a>
 - <a href="https://bsky.app/profile/ki-yu-bi-t.bsky.social" target="blank" rel="noopener noreferrer">Bluesky</a>
-- <a href="#" target="blank" rel="noopener noreferrer">InterFeet Game</a>
 
 ---
