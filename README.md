@@ -4,7 +4,7 @@
 
 # About Me 📌
 
-**_ᜃᜒᜌᜓᜊᜒᜆ᜔_**
+**_ᜃᜒᜌᜓᜊᜒᜆ᜔_** </br>
 I'm **Q_Bit**, a Filipino Furry Artist and Computer Programmer. 
 
 My hobby is to draw and to make my own game.</br>
